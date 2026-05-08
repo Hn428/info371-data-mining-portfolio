@@ -1,0 +1,2 @@
+assignments/assignment-1-stackoverflow-knn/data/stackoverflow_survey_results.csv filter=lfs diff=lfs merge=lfs -text
+assignments/assignment-4-butterfly-classification/data/butterfly_labels.h5 filter=lfs diff=lfs merge=lfs -text
